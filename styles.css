@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  background-color: lightgrey;
+}
+/* -----------------------------------------------NAV */
+nav{
+  display: flex;
+  margin-left: 0;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  margin-bottom: 70px;
+}
+.navdiv{
+  flex-basis: 38rem;
+
+}
+/* -----------------------------------------------header */
+.flex-container{
+  display: flex;
+  flex-basis: 50%;
+  flex-wrap: wrap;
+  width: 38rem;
+  margin: auto;
+  background-color: white;
+  margin-bottom: 70px;
+}
+
+.header1{
+  display: flex;
+  width: 38rem;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+  border-bottom: solid 1px lightgrey;
+}
+.h-h3{
+
+}
+
+.h-span{
+  color: grey;
+
+}
+/* -----------------------------------------------body */
+.b-img{
+  width: 38rem;
+}
+.footer1{
+  border-top: solid 1px lightgrey;
+  padding: 0 15px;
+
+}
